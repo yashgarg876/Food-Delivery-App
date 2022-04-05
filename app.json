@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "uber-eats",
+    "slug": "uber-eats",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "uber-eats"
+}
