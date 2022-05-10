@@ -1,0 +1,10 @@
+
+to run
+
+cd uber-eats
+npm start
+
+to upgrade react
+ npm i -g npm-check-updates
+ ncu -u
+ npm install
